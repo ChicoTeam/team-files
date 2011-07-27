@@ -1,0 +1,26 @@
+Project Leader Guide
+
+This guide is intended to help you be successful as a project leader. 
+
+Finding a suitable project is usually the hardest part of leading a project.
+
+First, you need to find a project for everyone to work on. Project guidelines:
+- Hosted on GitHub
+- Compatible with Linux
+- Not too many dependencies
+- 100% free
+- Has room to grow (beginners can easily make contributions)
+- New language/framework/etc (something the group hasn't done yet)
+- Fun and/or interesting (preferably both)
+
+You should search GitHub for repositories in your language of choice: https://github.com/search (idea: search "game")
+
+If you see something interesting, try to compile and run it. Be forewarned: Not all projects are easy to compile! Be sure to keep notes on which dependencies you had to install to get it to work.
+
+Once you have found a project, fill out the new_project_template: https://github.com/ChicoTeam/team-files/blob/master/new_project_template
+
+Change the name of the new_project_template and push it to the team-files repository: https://github.com/ChicoTeam/team-files
+
+Send Russ a link to your new project file (what you just pushed to team-files). He will review it, fork the project to github/ChicoTeam and send you a response.
+
+On the day of the meeting, be prepared to give a demonstration of the project and explain how to install it.
