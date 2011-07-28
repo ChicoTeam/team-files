@@ -15,12 +15,17 @@ First, you need to find a project for everyone to work on. Project guidelines:
 
 You should search GitHub for repositories in your language of choice: https://github.com/search (idea: search "game")
 
-If you see something interesting, try to compile and run it. Be forewarned: Not all projects are easy to compile! Be sure to keep notes on which dependencies you had to install to get it to work.
+If you see something interesting, try to compile and run it. Be forewarned: Not all projects are easy to compile! 
+Be sure to keep notes on which dependencies you had to install to get it to work.
 
-Once you have found a project, fill out the new_project_template: https://github.com/ChicoTeam/team-files/blob/master/new_project_template
+Once you have found a project, fill out the new_project_template: 
+https://github.com/ChicoTeam/team-files/blob/master/new_project_template
 
-Change the name of the new_project_template and push it to the team-files repository: https://github.com/ChicoTeam/team-files
+After filling out new_project_template, change the name and push it to the team-files repository: 
+https://github.com/ChicoTeam/team-files
 
-Send Russ a link to your new project file (what you just pushed to team-files). He will review it, fork the project to github/ChicoTeam and send you a response.
+Send Russ a link to your new project file (what you just pushed to team-files). 
+He will review it, fork the project to github/ChicoTeam and send you a response.
 
-On the day of the meeting, be prepared to give a demonstration of the project and explain how to install it.
+On the day of the meeting, be prepared to give a demonstration of the project and explain how to install it. 
+You should also review the code a little so that you can answer basic questions about it.
