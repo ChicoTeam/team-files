@@ -1,12 +1,12 @@
 # coffee-canvas-tetris
 
-## Project Description
+### Project Description
 Tetris written in CoffeeScript, using HTML5 Canvas
 
-## Leader Name + GitHub ID
+### Leader Name + GitHub ID
 Russ S., russplaysguitar
 
-## GitHub Link 
+### GitHub Link 
 https://github.com/ChicoTeam/coffee-canvas-tetris
 
 ### Dependencies
