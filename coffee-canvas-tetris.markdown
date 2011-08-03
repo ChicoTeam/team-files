@@ -27,26 +27,21 @@ For Linux:
 3. Install curl via synaptic
 
 4. Install NodeJS... 
-
 Follow Step 3A: https://github.com/joyent/node/wiki/Installation
 Notes: Paste each line into your command line individually. 
 IMPORTANT: Don't use any other installation method (such as binaries, etc).
 
 5. Install NPM...
-
 curl http://npmjs.org/install.sh | sh
 
 6. Install CoffeeScript...
-
 npm install -g coffee-script
 
 7. Clone the Git repo and get into that directory...
-
 git clone git@github.com:ChicoTeam/coffee-canvas-tetris.git
 cd coffee-canvas-tetris
 
 8. Compile...
-
 ./compiler.sh
 (this will start a process that automatically re-compiles whenever tetris.coffee is changed)
 
