@@ -15,6 +15,7 @@ https://github.com/amatsusaka/Sudoku-Solver/
 Python
 
 [Installation Steps]
+0. Install Python via Synaptic
 1. Git clone git@github.com:ChicoTeam/Sudoku-Solver.git
 
 [Steps to Run]
