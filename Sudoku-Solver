@@ -1,0 +1,26 @@
+[Project Name]
+amatsusaka / Sudoku-Solver 
+
+[Project Description]
+A project for creating an efficient python script to solve sudoku puzzles. 
+
+[Leader Name + GitHub ID]
+Dennis Marwood dennismarwood
+amatsusaka
+
+[GitHub Link]
+https://github.com/amatsusaka/Sudoku-Solver.git
+
+[Dependencies]
+Python
+
+[Installation Steps]
+1. Git clone https://github.com/amatsusaka/Sudoku-Solver.git
+
+[Steps to Run]
+1. Navigate to proper directory
+2. type "python SudokuSolve.py TestCase#.txt" where # is a file in the directory
+3. Observe results
+
+
+[Language/Framework References and Guides]
