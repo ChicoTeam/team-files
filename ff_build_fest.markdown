@@ -5,8 +5,9 @@
 Get involved in the Mozilla community:
 - IRC Chat: 
   - [Mibbit web-based chat](https://chat.mibbit.com/?url=irc%3A%2F%2Firc.mozilla.org%2F%23introduction) 
-  - [IRC link](irc://irc.mozilla.org)
-- ...
+  - [irc://irc.mozilla.org/introduction](irc://irc.mozilla.org/)
+- Forum
+- Mailing List
 
 ## Development Documentation
 
