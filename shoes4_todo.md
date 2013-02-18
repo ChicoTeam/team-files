@@ -14,4 +14,4 @@ Shoes4 Todo List
 
 If you've already done some of these steps, then you get the points for free!
 
-Note: Points are for bragging rights only and should not be used to determine self-worth or as currecny.
+Note: Points are for bragging rights only and should not be used to determine self-worth or as currency.
